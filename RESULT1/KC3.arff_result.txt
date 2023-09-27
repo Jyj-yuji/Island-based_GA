@@ -1,0 +1,259 @@
+****************LR_Regular****************
+Accuracy: 0.725
+F1: 0.15384615384615383
+Precision: 0.3333333333333333
+Recall: 0.1
+AUC: 0.5166666666666667
+Time: 0.010989904403686523
+****************LR_PA****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 23.055433750152588
+****************LR_HC****************
+Accuracy: 0.775
+F1: 0.18181818181818182
+Precision: 1.0
+Recall: 0.1
+AUC: 0.55
+Time: 9.163917064666748
+****************LR_GA_tuning:False_bagging:True****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 145.883620262146
+****************LR_GA_tuning:False_bagging:False****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 142.98902797698975
+****************LR_IGA****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 306.0541000366211
+****************LDA_Regular****************
+Accuracy: 0.75
+F1: 0.28571428571428575
+Precision: 0.5
+Recall: 0.2
+AUC: 0.5666666666666667
+Time: 0.0020024776458740234
+****************LDA_PA****************
+Accuracy: 0.8
+F1: 0.4285714285714285
+Precision: 0.75
+Recall: 0.3
+AUC: 0.6333333333333334
+Time: 5.175121784210205
+****************LDA_HC****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 2.5576648712158203
+****************LDA_GA_tuning:False_bagging:True****************
+Accuracy: 0.825
+F1: 0.4615384615384615
+Precision: 1.0
+Recall: 0.3
+AUC: 0.65
+Time: 29.834263563156128
+****************LDA_GA_tuning:False_bagging:False****************
+Accuracy: 0.825
+F1: 0.4615384615384615
+Precision: 1.0
+Recall: 0.3
+AUC: 0.65
+Time: 27.31679916381836
+****************LDA_IGA****************
+Accuracy: 0.825
+F1: 0.4615384615384615
+Precision: 1.0
+Recall: 0.3
+AUC: 0.65
+Time: 70.57264375686646
+****************NB_Regular****************
+Accuracy: 0.75
+F1: 0.37499999999999994
+Precision: 0.5
+Recall: 0.3
+AUC: 0.6000000000000001
+Time: 0.0009922981262207031
+****************NB_PA****************
+Accuracy: 0.8
+F1: 0.4285714285714285
+Precision: 0.75
+Recall: 0.3
+AUC: 0.6333333333333334
+Time: 4.951962947845459
+****************NB_HC****************
+Accuracy: 0.8
+F1: 0.5
+Precision: 0.6666666666666666
+Recall: 0.4
+AUC: 0.6666666666666666
+Time: 2.788019895553589
+****************NB_GA_tuning:False_bagging:True****************
+Accuracy: 0.825
+F1: 0.5333333333333333
+Precision: 0.8
+Recall: 0.4
+AUC: 0.6833333333333333
+Time: 29.175424337387085
+****************NB_GA_tuning:False_bagging:False****************
+Accuracy: 0.85
+F1: 0.5714285714285715
+Precision: 1.0
+Recall: 0.4
+AUC: 0.7
+Time: 28.85631561279297
+****************NB_IGA****************
+Accuracy: 0.85
+F1: 0.5714285714285715
+Precision: 1.0
+Recall: 0.4
+AUC: 0.7
+Time: 70.6182975769043
+****************K-NN_Regular****************
+Accuracy: 0.75
+F1: 0.0
+Precision: 0.0
+Recall: 0.0
+AUC: 0.5
+Time: 0.0
+****************K-NN_PA****************
+Accuracy: 0.825
+F1: 0.4615384615384615
+Precision: 1.0
+Recall: 0.3
+AUC: 0.65
+Time: 56.287359952926636
+****************K-NN_HC****************
+Accuracy: 0.775
+F1: 0.18181818181818182
+Precision: 1.0
+Recall: 0.1
+AUC: 0.55
+Time: 1.3740012645721436
+****************K-NN_GA_tuning:False_bagging:True****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 251.81960082054138
+****************K-NN_GA_tuning:False_bagging:False****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 178.84294962882996
+****************K-NN_IGA****************
+Accuracy: 0.825
+F1: 0.4615384615384615
+Precision: 1.0
+Recall: 0.3
+AUC: 0.65
+Time: 443.35573148727417
+****************C4.5_Regular****************
+Accuracy: 0.775
+F1: 0.4
+Precision: 0.6
+Recall: 0.3
+AUC: 0.6166666666666667
+Time: 0.0019989013671875
+****************C4.5_PA****************
+Accuracy: 0.825
+F1: 0.4615384615384615
+Precision: 1.0
+Recall: 0.3
+AUC: 0.65
+Time: 6.036504030227661
+****************C4.5_HC****************
+Accuracy: 0.8
+F1: 0.33333333333333337
+Precision: 1.0
+Recall: 0.2
+AUC: 0.6
+Time: 1.8389980792999268
+****************C4.5_GA_tuning:False_bagging:True****************
+Accuracy: 0.85
+F1: 0.5714285714285715
+Precision: 1.0
+Recall: 0.4
+AUC: 0.7
+Time: 34.420053482055664
+****************C4.5_GA_tuning:False_bagging:False****************
+Accuracy: 0.85
+F1: 0.5714285714285715
+Precision: 1.0
+Recall: 0.4
+AUC: 0.7
+Time: 33.08517384529114
+****************C4.5_IGA****************
+Accuracy: 0.85
+F1: 0.5714285714285715
+Precision: 1.0
+Recall: 0.4
+AUC: 0.7
+Time: 82.38255023956299
+****************CART_Regular****************
+Accuracy: 0.725
+F1: 0.4210526315789474
+Precision: 0.4444444444444444
+Recall: 0.4
+AUC: 0.6166666666666667
+Time: 0.0010001659393310547
+****************CART_PA****************
+Accuracy: 0.85
+F1: 0.5714285714285715
+Precision: 1.0
+Recall: 0.4
+AUC: 0.7
+Time: 5.491825342178345
+****************CART_HC****************
+Accuracy: 0.8
+F1: 0.4285714285714285
+Precision: 0.75
+Recall: 0.3
+AUC: 0.6333333333333334
+Time: 1.7920403480529785
+****************CART_GA_tuning:False_bagging:True****************
+Accuracy: 0.875
+F1: 0.6666666666666666
+Precision: 1.0
+Recall: 0.5
+AUC: 0.75
+Time: 31.889708280563354
+****************CART_GA_tuning:False_bagging:False****************
+Accuracy: 0.875
+F1: 0.6666666666666666
+Precision: 1.0
+Recall: 0.5
+AUC: 0.75
+Time: 31.468836784362793
+****************CART_GA_tuning:True_bagging:True****************
+Accuracy: 0.875
+F1: 0.6666666666666666
+Precision: 1.0
+Recall: 0.5
+AUC: 0.75
+Time: 43.2732470035553
+****************CART_IGA****************
+Accuracy: 0.875
+F1: 0.6666666666666666
+Precision: 1.0
+Recall: 0.5
+AUC: 0.75
+Time: 79.975102186203
